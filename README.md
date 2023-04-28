@@ -4,8 +4,8 @@ The dataset contains 14 columns with 181673 rows of data. Each row represents an
 
 The main objective of this project is to build regression models to predict the price of an item. To achieve this, we will first perform data cleaning, feature engineering, and exploratory data analysis (EDA). We will then split the data into training and testing sets in the ratio of 90:10 and build regression models to predict the selling price of an item. Finally, we will evaluate the best model using the metric r2 score on the testing set.
 
-Column descriptions
-Table- daily_offers
+Column descriptions<br>
+Table- daily_offers<br>
 id:A unique identifier for each steel item.<br>
 item_date: The date on which the steel item was added to the dataset.<br>
 quantity tons: The quantity of steel item in tons.<br>
